@@ -17,3 +17,7 @@ My web security collection
 ## Authentication
 
 - [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
+
+## Command Execution
+
+- [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html)
