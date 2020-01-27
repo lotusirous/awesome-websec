@@ -1,6 +1,6 @@
-# Web security collection
+# Awesome web security
 
-My web security collection
+A curated list of awesome web security articles, resources and other awesomeness.
 
 
 ## Client-side Attacks
