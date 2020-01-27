@@ -12,7 +12,7 @@ A curated list of awesome web security articles, resources and other awesomeness
 ## Server-side Attacks
 
 - [HTTP Request Smuggler](https://github.com/PortSwigger/http-request-smuggler)
-- [Google Bug Bounty: CSRF in learndigital.withgoogle.com
+- (January 21, 2020) - [Google Bug Bounty: CSRF in learndigital.withgoogle.com
 ](https://santuysec.com/2020/01/21/google-bug-bounty-csrf-in-learndigital-withgoogle-com/)
 
 
