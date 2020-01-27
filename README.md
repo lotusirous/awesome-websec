@@ -20,5 +20,6 @@ A curated list of awesome web security articles, resources and other awesomeness
 
 ## Command Execution
 
+- [Blind SQL Injection without an "in"](https://medium.com/@terjanq/blind-sql-injection-without-an-in-1e14ba1d4952)
 - [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html)
 - [Remote Code Execution in Three Acts: Chaining Exposed Actuators and H2 Database Aliases in Spring Boot 2](https://spaceraccoon.dev/remote-code-execution-in-three-acts-chaining-exposed-actuators-and-h2-database)
