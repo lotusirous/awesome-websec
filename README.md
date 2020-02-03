@@ -5,9 +5,11 @@ A curated list of awesome web security articles, resources and other awesomeness
 
 ## Client-side Attacks
 
+- [Samesite by Default and What It Means for Bug Bounty Hunters](https://blog.reconless.com/samesite-by-default/)
 - [Information Leaks via Safari’s Intelligent Tracking Prevention](https://research.google/pubs/pub48871)
 - [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/)
 - [From Markdown to RCE in Atom](https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom)
+
 
 ## Server-side Attacks
 
