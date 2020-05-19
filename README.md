@@ -23,6 +23,7 @@ A curated list of awesome web security articles, resources and other awesomeness
 ## Authentication
 
 - [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
+- [Pentest OAuth2](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 
 ## Command Execution
 
